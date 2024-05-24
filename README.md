@@ -71,11 +71,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-jfneto.vercel.app/api/wakatime?username=@jfneto&theme=city_lights&count_private=true&hide_title=true"
+    srcset="https://github-readme-stats-jfneto.vercel.app/api/wakatime?username=@jfneto&theme=city_lights&count_private=true&hide_title=true&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-jfneto.vercel.app/api/wakatime?username=@jfneto&theme=default&count_private=true&hide_title=true"
+    srcset="https://github-readme-stats-jfneto.vercel.app/api/wakatime?username=@jfneto&theme=default&count_private=true&hide_title=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-jfneto.vercel.app/api/top-langs/?username=jfneto&show_icons=true" />
