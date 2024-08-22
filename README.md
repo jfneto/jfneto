@@ -60,8 +60,11 @@
     srcset="https://github-readme-stats-jfneto.vercel.app/api/top-langs/?username=jfneto&theme=city_lights&show_icons=true&count_private=true&langs_count=8&layout=donut-vertical&hide=Shell%2CHTML%2CPug%2CProcfile%2CPerl%2CASL&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
-
-  <img src="https://github-readme-stats-jfneto.vercel.app/api/top-langs/?username=jfneto&show_icons=true" />
+  <source
+    srcset="https://github-readme-stats-jfneto.vercel.app/api/top-langs/?username=jfneto&theme=city_lights&show_icons=true&count_private=true&langs_count=8&layout=donut-vertical&hide=Shell%2CHTML%2CPug%2CProcfile%2CPerl%2CASL&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats-jfneto.vercel.app/api/top-langs/?username=jfneto&theme=city_lights&show_icons=true&count_private=true&langs_count=8&layout=donut-vertical&hide=Shell%2CHTML%2CPug%2CProcfile%2CPerl%2CASL&hide_title=true" />
 </picture>
 
 ## WakaTime stats
