@@ -60,10 +60,7 @@
     srcset="https://github-readme-stats-jfneto.vercel.app/api/top-langs/?username=jfneto&theme=city_lights&show_icons=true&count_private=true&langs_count=8&layout=donut-vertical&hide=Shell%2CHTML%2CPug%2CProcfile%2CPerl%2CASL&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats-jfneto.vercel.app/api/top-langs/?username=jfneto&theme=default&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=donut-vertical&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+
   <img src="https://github-readme-stats-jfneto.vercel.app/api/top-langs/?username=jfneto&show_icons=true" />
 </picture>
 
