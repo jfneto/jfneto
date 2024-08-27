@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/7234b937-3b35-411a-a0b5-6cc58b19d0c3.svg)](https://wakatime.com/@7234b937-3b35-411a-a0b5-6cc58b19d0c3)
+
 # Hi, I'm `Neto` a husband, father and _developer_
 
 ## About me
